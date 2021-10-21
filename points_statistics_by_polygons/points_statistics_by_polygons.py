@@ -1,5 +1,9 @@
 import argparse
 
+
+def execute(pointsLayer, polygonsLayer, attributeStats, output):
+    return 0
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
